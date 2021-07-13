@@ -11,3 +11,118 @@ body {
     font-weight: 300;
     color: #3a3a3a; 
 }
+
+/* headings and Logos*/
+
+h3, h1 {
+    font-family: Oswald sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    color: #252525;
+}
+
+#logo{
+    float: left;
+    font-size: 250%;
+    margin-left: 35px;   
+}
+
+/* navigation links*/
+
+#menu {
+    font-size: 100%;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+}
+
+#menu, #logo{
+    line-height: 85px;
+}
+
+#menu li{
+    float: right;
+    list-style-type: none;
+    margin-right: 30px;
+    
+}
+
+/*Yoga image and cover text*/
+
+#Yoga-main{
+    height: 700px;
+    width: 100%;
+    overflow: hidden;
+    position: relative; 
+    background-position: right bottom, left top;
+ 
+}
+#cover-text h2{
+    
+    color: #fff;
+
+}
+#cover-text{
+    font-family: Open Sans sans-serif;
+    font-size: 90%;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    width: 160px;
+    height: 120px;
+
+
+    border-radius: 200%;
+    padding-left: 120px;
+    padding-right: 100px;
+    padding-bottom: 50px;
+    padding-top: 60px;
+    background-color: rgba(241, 109, 107, 0.7);
+    
+    bottom: 300px;
+    right: 150px;
+
+    position: absolute;
+
+}
+
+#yogaimage{
+    height: 650px;
+    width: 100%;
+    background: url(../images/Spiritwithin.jpg) no-repeat center center;
+    background-size: cover;
+    padding: 15px;
+    
+    }
+
+    /* Float four columns side by side */
+.column {
+    float: left;
+    width: 20%;
+    padding: 0 10px;
+  }
+
+  /* Remove extra left and right margins, due to padding in columns */
+.row {margin: 0 -10px;}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+/* Style the counter cards */
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2); /* this adds the "card" effect */
+  padding: 16px;
+  text-align: center;
+  background-color: #e3985a;
+}
+
+/* Responsive columns - one column layout (vertical) on small screens */
+@media screen and (max-width: 600px) {
+  .column {
+    width: 100%;
+    display: block;
+    margin-bottom: 20px;
+  }
+}
