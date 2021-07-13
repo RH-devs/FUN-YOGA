@@ -12,6 +12,8 @@ body {
     color: #3a3a3a; 
 }
 
+
+
 /* headings and Logos*/
 
 h3, h1 {
@@ -37,13 +39,17 @@ h3, h1 {
 
 #menu, #logo{
     line-height: 85px;
+    padding: 80px;
+    text-align: center;
+    background: rgba(241, 109, 107, 0.7);
+    
 }
 
 #menu li{
     float: right;
     list-style-type: none;
     margin-right: 30px;
-    
+    color: #3a3a3a  
 }
 
 /*Yoga image and cover text*/
@@ -68,20 +74,29 @@ h3, h1 {
     letter-spacing: 2px;
     width: 160px;
     height: 120px;
-
-
     border-radius: 200%;
-    padding-left: 120px;
+    padding-left: 100px;
     padding-right: 100px;
     padding-bottom: 50px;
     padding-top: 60px;
-    background-color: rgba(241, 109, 107, 0.7);
-    
+    background-color: rgba(177, 60, 58, 0.7);
     bottom: 300px;
     right: 150px;
 
     position: absolute;
 
+}
+
+#menu a{
+    text-decoration: none;
+    color: inherit;
+}
+
+#menu a:hover{
+    border-bottom: 4px solid #3a3a3a;
+}
+.active{
+    border-bottom: 4px solid #3a3a3a;
 }
 
 #yogaimage{
@@ -93,15 +108,21 @@ h3, h1 {
     
     }
 
+    #benefits h2
+    {
+        box-sizing: border-box;
+        height: 10px;
+        text-align: center;
+      }
     /* Float four columns side by side */
 .column {
     float: left;
     width: 20%;
-    padding: 0 10px;
+    padding: 5px 20px;
   }
 
   /* Remove extra left and right margins, due to padding in columns */
-.row {margin: 0 -10px;}
+.row {margin: 100px 200px;}
 
 /* Clear floats after the columns */
 .row:after {
@@ -112,10 +133,10 @@ h3, h1 {
 
 /* Style the counter cards */
 .card {
-  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2); /* this adds the "card" effect */
-  padding: 16px;
+  box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2); /* this adds the "card" effect */
+  padding: 20px;
   text-align: center;
-  background-color: #e3985a;
+  background-color: rgba(241, 109, 107, 0.7);
 }
 
 /* Responsive columns - one column layout (vertical) on small screens */
