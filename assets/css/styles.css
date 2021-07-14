@@ -188,6 +188,11 @@ h3, h1 {
     background-color: #f16c6b;
 }
 
+.socials{
+    display: inline-block;
+
+}
+
 .socialmedia li{
        
         display: inline;
