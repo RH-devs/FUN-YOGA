@@ -176,6 +176,8 @@ h3, h1 {
     width: 20%;
     height: 25px;
     padding: 6px;
+    text-align: center;
+    font-size: 80%;
 }
 .join{
     border-radius: 12px;
@@ -183,4 +185,24 @@ h3, h1 {
     margin: 5px 20px;
     display: inline-block;
     padding: 6px;
+    background-color: #f16c6b;
 }
+
+.socialmedia li{
+       
+        display: inline;
+      
+       
+    
+      }
+.socialmedia i{
+    font-size: 160%;
+    margin: 1%;
+    padding: 5%;
+    color: #fff;
+      }
+
+      #copyright{
+          color: #fff;
+          margin-left: 20px;
+      }
