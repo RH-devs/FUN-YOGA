@@ -108,12 +108,22 @@ h3, h1 {
     
     }
 
+    #welcome{
+        text-align: center;
+    }
+
+    #note{
+        margin-left: 30px;
+        font-size: 120%;
+    }
     #benefits h2
     {
         box-sizing: border-box;
         height: 10px;
         text-align: center;
       }
+
+
     /* Float four columns side by side */
 .column {
     float: left;
