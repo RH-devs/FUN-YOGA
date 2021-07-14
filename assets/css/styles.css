@@ -157,3 +157,16 @@ h3, h1 {
     margin-bottom: 20px;
   }
 }
+
+/*Footer section*/
+
+.foot{
+    background-image: url(../images/footer\ tree.jpg);
+    background-size: cover;
+    height: 150%;
+}
+.container{
+    font-size: 120%;
+    color: #fff;
+    text-align: center;
+}
