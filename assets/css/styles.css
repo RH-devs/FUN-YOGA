@@ -170,3 +170,17 @@ h3, h1 {
     color: #fff;
     text-align: center;
 }
+
+.text-input{
+    margin:5px;
+    width: 20%;
+    height: 25px;
+    padding: 6px;
+}
+.join{
+    border-radius: 12px;
+    font-size: 90%;
+    margin: 5px 20px;
+    display: inline-block;
+    padding: 6px;
+}
