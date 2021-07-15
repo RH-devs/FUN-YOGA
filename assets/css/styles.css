@@ -188,26 +188,29 @@ h3, h1 {
     background-color: #f16c6b;
 }
 
-.socials{
-    display: inline-block;
 
+.socialmedia{
+    text-align: right;
 }
-
-.socialmedia li{
+.socialmedia >li{
        
-        display: inline;
-      
-       
-    
+        display: inline-block; 
+        
       }
+
 .socialmedia i{
-    font-size: 160%;
-    margin: 1%;
-    padding: 5%;
+    font-size: 200%;
+    margin-bottom: 20px;
+    margin-right: 50px;
+    padding: 2%;
     color: #fff;
+    
       }
 
       #copyright{
           color: #fff;
-          margin-left: 20px;
+          margin-left: 10px;
+          margin-bottom: 20px;
       }
+
+      
