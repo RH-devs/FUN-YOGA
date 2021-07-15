@@ -29,6 +29,7 @@ h3, h1 {
     font-size: 300%;
     letter-spacing: 1px; 
     color: #252525; 
+    text-decoration: none;
 }
 
 /* navigation links*/
