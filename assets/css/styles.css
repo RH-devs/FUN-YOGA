@@ -26,8 +26,9 @@ h3, h1 {
 
 #logo{
     float: left;
-    font-size: 250%;
-    margin-left: 35px;   
+    font-size: 300%;
+    letter-spacing: 1px; 
+    color: #252525; 
 }
 
 /* navigation links*/
@@ -36,13 +37,14 @@ h3, h1 {
     font-size: 100%;
     letter-spacing: 2px;
     text-transform: uppercase;
+    
 }
 
 #menu, #logo{
     line-height: 85px;
     padding: 80px;
-    text-align: center;
     background: rgba(241, 109, 107, 0.7);
+    
     
 }
 
@@ -51,6 +53,7 @@ h3, h1 {
     list-style-type: none;
     margin-right: 30px;
     color: #3a3a3a  
+    
 }
 
 /*Yoga image and cover text*/
@@ -97,7 +100,7 @@ h3, h1 {
     border-bottom: 4px solid #3a3a3a;
 }
 .active{
-    border-bottom: 4px solid #3a3a3a;
+    border-bottom: 1px solid #3a3a3a;
 }
 
 #yogaimage{
