@@ -110,11 +110,13 @@ h3, h1 {
     
     }
 
-    #welcome{
+    #welcome
+    {
         text-align: center;
     }
 
-    #note{
+    #note
+        {
         margin-left: 70px;
         margin-right: 70px;
         font-size: 130%;
@@ -219,3 +221,4 @@ h3, h1 {
 
       /*Gallery page*/
      
+      
