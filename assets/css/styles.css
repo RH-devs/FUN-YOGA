@@ -3,14 +3,13 @@
 * {
     margin: 0;
     padding: 0;
-    border: none;
+    border:''
 
 }
 body {
     font-family: Open sans sans-serif;
     font-weight: 300;
-    
-    
+   
 }
 
 
@@ -30,6 +29,7 @@ h3, h1 {
     letter-spacing: 1px; 
     color: #252525; 
     text-decoration: none;
+    margin-left: 30px;
 }
 
 /* navigation links*/
@@ -220,12 +220,57 @@ h3, h1 {
       }
 
       /*Gallery page*/
-     
+       .video-section{
+           margin-left: 275px;
+           margin-right: 250px;
+           height: 200%;
+       }
       
 
       /*Contact page*/
-      .contact{
-          font-weight: 100%;
-          
+
+      .contact-info
+                  {
+          min-height: 40vh;  
+          display: block;
+          margin-left: 130px;
+          text-align: center;
+          font-size: 120%;
+          font-family: Open sans sans-serif;
       }
       
+      
+
+      .info{
+         
+          text-align: center;
+          font-family: Open sans sans-serif;
+          font-size: 120%;
+          max-height: 50vh;
+          margin-top: 50px;
+          
+          
+      }
+    
+      iframe{
+        margin-left: 130px;
+        margin-right: 130px;
+        margin-bottom: 30px;
+        margin-top: 50px;
+        width: 1250px;
+        border-radius: 4px;
+        
+      }
+
+      hr{
+        display: none;
+    }
+      
+     .yogapose{
+        clear: left;
+        min-height: 300px;
+        width: 100%;
+        background: url(../images/Stand\ on\ a\ knee\ pose.jpg) no-repeat center center;
+        background-size: cover;
+        padding: 35px;
+     }
