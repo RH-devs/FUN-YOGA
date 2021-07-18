@@ -10,6 +10,7 @@ body {
     font-family: Open sans sans-serif;
     font-weight: 300;
     color: #252525;
+    overflow-x: hidden;
     
    
 }
@@ -349,4 +350,26 @@ h3, h1 {
       display: block;
       margin-bottom: 20px;
     }
+  }
+
+
+
+  /*Workshop section*/
+
+  .yogatutors {
+    clear: both;
+    min-height: 300px;
+    width: 100%;
+    background: url(../images/Online\ learning.jpg) no-repeat center center;
+    background-size: cover;
+  }
+
+  #workshop-times
+  {
+      text-align: center;
+      font-family: Open sans sans-serif;
+      font-size: 120%;
+      color: #252525;
+      padding-left: 4rem;
+      
   }
