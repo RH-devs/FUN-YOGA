@@ -10,8 +10,7 @@ body {
     font-family: Open sans sans-serif;
     font-weight: 300;
     color: #252525;
-    justify-content: center;
-    row-gap: 20px;
+    
    
 }
 
@@ -161,14 +160,7 @@ h3, h1 {
   background-color: rgba(241, 109, 107, 0.7);
 }
 
-/* Responsive columns - one column layout (vertical) on small screens */
-@media screen and (max-width: 600px) {
-  .column {
-    width: 100%;
-    display: block;
-    margin-bottom: 20px;
-  }
-}
+
 
 /*Footer section*/
 
@@ -234,19 +226,23 @@ h3, h1 {
            
            margin-left: 110px;
            margin-right: 80px;
-           padding-top: 5rem;   
+           padding-top: 5rem;
+           padding-bottom: 5rem;  
            
        }
        
        .image-container
        {
-        
-        display: grid;
-        grid-template-columns: repeat(4 300px);
-       
+        clear: both;
+        column-count: 4;
+        justify-content: center;
+        column-gap: 1px;
+        padding-left: 4rem;
        }
      
-      
+
+ 
+    
       /*Contact page*/
 
       .contact-info
@@ -284,11 +280,74 @@ h3, h1 {
 
       
       
-     .yogapose{
+     .yogapose {
         clear: both;
         min-height: 300px;
         width: 100%;
         background: url(../images/Stand\ on\ a\ knee\ pose.jpg) no-repeat center center;
         background-size: cover;
-        
      }
+
+     /*Media Queries*/
+
+     /*For medium screen sizes from 950px wide and down*/
+
+@media screen and (max-width: 950px) 
+{
+    #menu {
+        clear: left;
+        float: left;
+        margin-left: 32px;
+        margin-bottom: 20px;
+        line-height: 20px;
+    }
+
+
+#cover-text {
+    left: 0;
+}
+
+#logo{
+    left: 0;
+}
+
+#note
+{
+    left: 0;
+}
+.column {
+    width: 80%;
+    
+
+  }
+ 
+  .row{
+    column-count: 2;
+    width: 80%;
+    margin-left: 90px;
+    margin-right: 45px;
+    margin-bottom: 25px;
+}
+
+.image-container{
+
+ 
+   column-count: 2;
+   float: left;
+   
+}
+.video-container{
+   margin-left: 0;
+}
+
+}
+
+
+/* Responsive columns - one column layout (vertical) on small screens */
+@media screen and (max-width: 600px) {
+    .column {
+      width: 100%;
+      display: block;
+      margin-bottom: 20px;
+    }
+  }
