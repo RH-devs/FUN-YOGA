@@ -3,22 +3,15 @@
 * {
     margin: 0;
     padding: 0;
-    border:'none'
-
+    border: 0;
 }
 body {
-    font-family: Open sans sans-serif;
+    font-family: Open Sans sans-serif;
     font-weight: 300;
     color: #252525;
-    overflow-x: hidden;
-    
-   
+    overflow-x: hidden;   
 }
-
-
-
 /* headings and Logos*/
-
 h3, h1 {
     font-family: Oswald sans-serif;
     text-transform: uppercase;
@@ -35,38 +28,24 @@ h3, h1 {
     margin-left: 30px;
 }
 
-#login #register {
-   
-    text-decoration: none;
-    font-size: 100%;
-    float:none;
-    margin-right: 300px;
-}
 /* navigation links*/
 
 #menu {
     font-size: 100%;
     letter-spacing: 2px;
-    text-transform: uppercase;
-    
+    text-transform: uppercase;   
 }
 
 #menu, #logo{
-    line-height: 75px;
-    
-    
-   
+    line-height: 75px;  
 }
 
 #menu li{
     float: right;
     list-style-type: none;
     margin-right: 30px;
-    color: #3a3a3a  
-    
+    color: #3a3a3a     
 }
-
-
 
 /*Yoga image and cover text*/
 
@@ -76,70 +55,60 @@ h3, h1 {
     overflow: hidden;
     position: relative; 
     background-position: right bottom, left top;
- 
 }
-#cover-text h2{
-    
-    color: #fff;
-    
-
+#cover-text h2 {
+        color: #3a3a3a
 }
-#cover-text{
+#cover-text {
     font-family: Open Sans sans-serif;
     font-size: 150%;
     text-align: center;
     letter-spacing: 2px;
-    bottom: 100px;
-    right: 70px;
+    bottom: 80px;
+    right: 30px;
     display: inline-block;
-    padding: 6px;
-    background-color: rgba(241, 109, 107, 0.7);
+    padding: 2px;
+    background-color: #f7dfdf;
     position: absolute;
     border-radius: 5px;
-
+    border: solid 1px #f7dfdf;
 }
 
-#menu a{
+#menu a {
     text-decoration: none;
     color: inherit;
 }
 
-#menu a:hover{
+#menu a:hover {
     border-bottom: 4px solid #f16c6b;
 }
-.active{
+.active {
     border-bottom: 1px solid #f16c6b;
 }
 
-#yogaimage{
+#yogaimage {
     height: 650px;
     width: 100%;
-    background: url(../images/Spiritwithin.jpg) no-repeat center center;
+    background: url(../images/Hero-imagee.jpg) no-repeat center center;
     background-size: cover;
     padding: 15px;
- 
 }
-
-
-    #welcome
-    {
+    #welcome {
         text-align: center;
         padding: 5px;
     }
 
-    #note
-        {
-        margin-left: 70px;
-        margin-right: 70px;
+    #note {
+        margin-left: 160px;
+        margin-right: 160px;
         font-size: 130%;
         text-align: justify;
     }
-    #benefits h2
-    {
-        box-sizing: border-box;
+    #benefits h2 {
         height: 10px;
         text-align: center;
-        padding-top: 2rem; 
+        padding-top: 2rem;
+        font-size: 150%; 
       }
 
 
@@ -168,11 +137,9 @@ h3, h1 {
   background-color: rgba(241, 109, 107, 0.7);
 }
 
-
-
 /*Footer section*/
 
-.foot{
+.foot {
     background-image: url(../images/footer\ tree.jpg);
     background-size: cover;
     height: 150%;
@@ -181,9 +148,7 @@ h3, h1 {
     font-size: 120%;
     color: #fff;
     text-align: center;
-    padding-top: 1rem;
-    
-    
+    padding-top: 1rem;  
 }
 
 .text-input{
@@ -204,13 +169,11 @@ h3, h1 {
 }
 
 
-.socialmedia{
+.socialmedia {
     text-align: right;
 }
-.socialmedia >li{
-       
-        display: inline-block; 
-        
+.socialmedia >li {
+        display: inline-block;  
       }
 
 .socialmedia i{
@@ -229,17 +192,12 @@ h3, h1 {
       }
 
       /*Gallery page*/
-       .video-section
-       {
-           
+       .video-section {
            margin-left: 40px;
-           margin-right: 30px;
-            
-           
+           margin-right: 30px;   
        }
        
-       .image-container
-       {
+       .image-container {
         clear: both;
         column-count: 4;
         justify-content: center;
@@ -247,32 +205,22 @@ h3, h1 {
         padding-left: 4rem;
        }
      
-
- 
-    
       /*Contact page*/
 
-      .contact-info
-                  {
-         
+      .contact-info {
           display: block;
           text-align: center;
           font-size: 120%;
           font-family: Open sans sans-serif;
           min-height: 40vh;
       }
-      
-      
 
-      .info{
-         
+      .info {
           text-align: center;
           font-family: Open sans sans-serif;
           font-size: 120%;
           max-height: 40vh;
-          margin-top: 50px;
-          
-          
+          margin-top: 50px;      
       }
     
       iframe{
@@ -281,13 +229,9 @@ h3, h1 {
         margin-bottom: 50px;
         margin-top: 50px;
         width: 750px;
-        border-radius: 4px;
-        
-        
+        border-radius: 4px;  
       }
 
-      
-      
      .yogapose {
         clear: both;
         min-height: 300px;
@@ -313,6 +257,7 @@ h3, h1 {
 
 #cover-text {
     left: 0;
+    right: auto;
 }
 
 #logo{
@@ -337,16 +282,10 @@ h3, h1 {
     margin-bottom: 25px;
 }
 
-.image-container{
-
- 
+.image-container {
    column-count: 2;
-   float: left;
-   
+   float: left;   
 }
-
-
-
 }
 
 
@@ -427,14 +366,12 @@ h3, h1 {
 }
 
 .join-button {
-    margin-top: 20px;
+    margin: 10px 60px 10px 130px;
     border-radius: 2px;
     padding: 15px 32px 15px 32px;
     text-align: center;
     font-size: 100%;
-    background-color: #f16c6b;
-    color: #fafafa;
-    
+    background-color: #f16c6b;  
 }
 
 .join-button:hover { 
