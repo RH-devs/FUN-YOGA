@@ -223,13 +223,10 @@ h3, h1 {
           margin-top: 50px;      
       }
     
-      iframe{
-        margin-left: 400px;
-        margin-right: 350px;
-        margin-bottom: 50px;
-        margin-top: 50px;
-        width: 750px;
-        border-radius: 4px;  
+      .map-section {
+        padding: 50px 100px 50px 100px;
+        border-radius: 4px;
+        align-items: center;  
       }
 
      .yogapose {
