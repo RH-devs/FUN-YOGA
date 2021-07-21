@@ -30,11 +30,18 @@ The existing features are broken into four pages which includes the Home, Galler
 
 - __Benefits Section__
 
-- The Yoga essentials section will consist of four columns which allow the user to see the benefits of joining the Yoga sessions and importance of fitness.
+- The Yoga essentials section consists of four columns which allow the user to see the benefits of joining the Yoga sessions and importance of fitness.
 
 - This should encourage the user to consider practicing Yoga as part of their fitness journey.
 
 ![Benefits section] (https://github.com/RH-devs/YOGA-PROJECT.git/assets/images/yogabenefits.PNG)
+
+-__Workshop section__
+
+- This section consists of four columns and shows users the date, time, venue, techniques to be used and tutor names for live yoga sessions.
+
+![Workshop section] (https://github.com/RH-devs/YOGA-PROJECT.git/assets/images/Yogaworkshop.PNG)
+
 
 
 
