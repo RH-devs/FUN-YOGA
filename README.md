@@ -26,7 +26,19 @@ The existing features are broken into four pages which includes the Home, Galler
 
 - This entails a brief introduction of yoga and what can be achieved using the website as user’s major hub for yoga.
 
-![Welcome note] ()
+![Welcome note] (https://github.com/RH-devs/YOGA-PROJECT.git/assets/images/welcomenote.PNG)
+
+- __Benefits Section__
+
+- The Yoga essentials section will consist of four columns which allow the user to see the benefits of joining the Yoga sessions and importance of fitness.
+
+- This should encourage the user to consider practicing Yoga as part of their fitness journey.
+
+![Benefits section] (https://github.com/RH-devs/YOGA-PROJECT.git/assets/images/yogabenefits.PNG)
+
+
+
+
 
 
 
