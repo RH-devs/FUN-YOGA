@@ -7,10 +7,29 @@ It will be very useful to participants as recorded sessions will be available/on
 ### Existing Features
 
 The existing features are broken into four pages which includes the Home, Gallery, Sign up and Contact.
-- _Navigation Bar_
+- __Navigation Bar__
 
 - The section will feature four pages and the full responsive navigation bar includes links to the Logo, Home page, Media, Sign up page and the Contact page. They are all identical in each page to allow users navigate for easily.
 
 - It will also allow easy navigation for users on all devices without going back to the previous page using the ‘back’ button.
+
+![Nav bar] (https://github.com/RH-devs/YOGA-PROJECT.git/assets/images/navbar.PNG)
+
+- __Home Page__
+
+- The Home Page includes a background picture of yoga group exhibiting a technique to allow the user see what the site entails.
+- This section introduces the user to Fun yoga with slide animation of pictures to grab their attention.
+
+![Home Page] (https://github.com/RH-devs/YOGA-PROJECT.git/assets/images/funyoga-homepgae.PNG)
+
+- __Welcome Section__
+
+- This entails a brief introduction of yoga and what can be achieved using the website as user’s major hub for yoga.
+
+![Welcome note] ()
+
+
+
+
 
 
