@@ -100,8 +100,8 @@ h3, h1 {
     }
 
     #note {
-        margin-left: 80px;
-        margin-right: 80px;
+        margin-left: 50px;
+        margin-right: 50px;
         font-size: 130%;
         text-align: justify;
     }
@@ -120,7 +120,7 @@ h3, h1 {
   }
   
   /* Remove extra left and right margins, due to padding in columns */
-  .row {margin: 20px 15px;}
+  .row {margin: 20px 30px;}
   
   /* Clear floats after the columns */
   .row:after {
