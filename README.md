@@ -13,20 +13,20 @@ The existing features are broken into four pages which includes the Home, Galler
 
 - It will also allow easy navigation for users on all devices without going back to the previous page using the ‘back’ button.
 
-![Nav bar] (https://github.com/RH-devs/YOGA-PROJECT.git/assets/images/navbar.PNG)
+![Nav bar] (https://github.com/RH-devs/YOGA-PROJECT/blob/main/assets/images/navbar.PNG)
 
 - __Home Page__
 
 - The Home Page includes a background picture of yoga group exhibiting a technique to allow the user see what the site entails.
 - This section introduces the user to Fun yoga with slide animation of pictures to grab their attention.
 
-![Home Page] (https://github.com/RH-devs/YOGA-PROJECT.git/assets/images/funyoga-homepgae.PNG)
+![Home Page] (https://github.com/RH-devs/YOGA-PROJECT/blob/main/assets/images/funyoga-homepgae.PNG)
 
 - __Welcome Section__
 
 - This entails a brief introduction of yoga and what can be achieved using the website as user’s major hub for yoga.
 
-![Welcome note] (https://github.com/RH-devs/YOGA-PROJECT.git/assets/images/welcomenote.PNG)
+![Welcome note] (https://github.com/RH-devs/YOGA-PROJECT/blob/main/assets/images/welcomenote.PNG)
 
 - __Benefits Section__
 
@@ -34,13 +34,13 @@ The existing features are broken into four pages which includes the Home, Galler
 
 - This should encourage the user to consider practicing Yoga as part of their fitness journey.
 
-![Benefits section] (https://github.com/RH-devs/YOGA-PROJECT.git/assets/images/yogabenefits.PNG)
+![Benefits section] (https://github.com/RH-devs/YOGA-PROJECT/blob/main/assets/images/yogabenefits.PNG)
 
 -__Workshop section__
 
 - This section consists of four columns and shows users the date, time, venue, techniques to be used and tutor names for live yoga sessions.
 
-![Workshop section] (https://github.com/RH-devs/YOGA-PROJECT.git/assets/images/Yogaworkshop.PNG)
+![Workshop section] (https://github.com/RH-devs/YOGA-PROJECT/blob/main/assets/images/Yogaworkshop.PNG)
 
 
 

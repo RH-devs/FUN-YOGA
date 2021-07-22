@@ -116,19 +116,28 @@ h3, h1 {
 
 
     /* Float four columns side by side */
-.column {
-    float: left;
-    width: 20%;
-    padding: 5px 25px;
-  }
+
+    .column {
+        float: left;
+        width: 20%;
+        padding: 5px 25px;
+      }
+
 
   /* Remove extra left and right margins, due to padding in columns */
-.row {margin: 50px 100px;}
+.row {
+    margin: 50px 100px;
+    display: grid;
+    column-gap: 25px;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-template-rows: auto;
+}
+   
 
 /* Clear floats after the columns */
 .row:after {
   content: "";
-  display: table;
+  display: grid;
   clear: both;
 }
 
