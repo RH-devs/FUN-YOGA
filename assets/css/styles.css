@@ -280,8 +280,9 @@ footer {
       text-align: center;
       font-family: Open sans sans-serif;
       font-size: 120%;
-      color: #252525;
       padding: 20px 40px;
+      color: #252525; 
+      text-decoration: none;
       
   }
 
