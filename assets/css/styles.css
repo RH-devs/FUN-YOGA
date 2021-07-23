@@ -110,6 +110,14 @@ h3, h1 {
         font-size: 150%; 
         padding: 30px 75px;
     }  
+
+    .choosing-yoga {
+        font-size: 120%;
+        text-align: center;
+        padding: 10px;
+        color: #252525;
+      }
+      
       
 
     /* Float four columns side by side */
@@ -143,7 +151,7 @@ h3, h1 {
 
 footer {
     
-    background-color: #3a3a3a;
+    background-color: #f59e9e;
     height: 400%;
 }
 
@@ -159,12 +167,11 @@ footer {
 .socialmedia i{
     font-size: 300%;
     padding: 20px 20px;
-    color: #f16c6b;
-    
+    color: #252525;
       }
 
       #copyright{
-          color: #f16c6b;
+          color: #252525;
           padding: 20px 20px;    
           font-size: 150%;
       }
