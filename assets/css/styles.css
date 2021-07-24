@@ -7,14 +7,14 @@
     box-sizing: border-box;
 }
 body {
-    font-family: Open Sans sans-serif;
+    font-family: 'Open Sans' sans-serif;
     font-weight: 300;
     color: #252525;
     overflow-x: hidden;   
 }
 /* headings and Logos*/
 h3, h1 {
-    font-family: Oswald sans-serif;
+    font-family: 'Oswald' sans-serif;
     text-transform: uppercase;
     letter-spacing: 1px;
     color: #252525;
@@ -61,7 +61,7 @@ h3, h1 {
         color: #3a3a3a
 }
 #cover-text {
-    font-family: Open Sans sans-serif;
+    font-family: 'Open Sans' sans-serif;
     font-size: 150%;
     text-align: center;
     letter-spacing: 2px;
@@ -72,7 +72,7 @@ h3, h1 {
     background-color: #f7dfdf;
     position: absolute;
     border-radius: 5px;
-    border: solid 1px #f7dfdf;
+    border: solid 1px #fff;
 }
 
 #menu a {
@@ -181,16 +181,15 @@ footer {
        
       
 .gallery {
-    
+    clear: both;
     display: grid;
     position: relative;
     padding: 20px 20px;  
-    grid-template-columns: 4; 
 }
 
-.video {
-   
+.video.container {
    column-count: 4;
+   column-gap: 1px;
 }
       .image-container {
         column-count: 4;
@@ -205,13 +204,13 @@ footer {
           display: block;
           text-align: center;
           font-size: 120%;
-          font-family: Open sans sans-serif;
+          font-family: 'Open sans' sans-serif;
           min-height: 40vh;
       }
 
       .info {
           text-align: center;
-          font-family: Open sans sans-serif;
+          font-family: 'Open sans' sans-serif;
           font-size: 120%;
           max-height: 40vh;
           margin-top: 50px;      
@@ -298,7 +297,7 @@ footer {
   #workshop-times
   {
       text-align: center;
-      font-family: Open sans sans-serif;
+      font-family: 'Open sans' sans-serif;
       font-size: 120%;
       padding: 20px 40px;
       color: #252525; 
@@ -316,11 +315,7 @@ footer {
         left: 125%;
         padding: 20px;
         border-radius: 10px;
-        border-color: #f16c6b solid 2px;
-       
-        
-       
-    
+        border-color: #f16c6b  
   }
   .form-section {
         width: 450px;
