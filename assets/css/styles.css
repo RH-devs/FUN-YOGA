@@ -177,12 +177,10 @@ footer {
       /*Gallery page*/
        
       
-.gallery {
-    clear: both; 
-    
-}
+
 
 .video-container {
+    clear: both;
     column-count: 4;
     padding: 1rem;
 }
@@ -270,20 +268,21 @@ footer {
     width: 50%;
   }
 
-.video-container {
-   column-count: 2;
-   float: left;   
-}
+  .video {
+    width:50%;   
+ }
 
 
 }
 
 /* Responsive columns - Medium devices (landscape tablets, 768px and up */
-
+@media screen and (max-width: 768px){
 .column {
     width: 50%;
   }
 
+ 
+}
 /* Responsive columns - one column layout (vertical) on small screens */
 @media screen and (max-width: 600px) {
     .column {
