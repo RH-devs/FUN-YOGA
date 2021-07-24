@@ -179,8 +179,20 @@ footer {
 
       /*Gallery page*/
        
-       .image-container {
-        clear: both;
+      
+.gallery {
+    
+    display: grid;
+    position: relative;
+    padding: 20px 20px;  
+    grid-template-columns: 4; 
+}
+
+.video {
+   
+   column-count: 4;
+}
+      .image-container {
         column-count: 4;
         justify-content: center;
         column-gap: 1px;
@@ -273,7 +285,6 @@ footer {
   }
 
 
-
   /*Workshop section*/
 
   .yogatutors {
@@ -297,7 +308,7 @@ footer {
   /*Signup section*/
   .signup-form {
     
-        margin: 100px 10% 0 0;
+        
         color: #fff;
         background-color :rgba(60, 60, 60, 0.6);
         max-width: 400px;
@@ -306,7 +317,7 @@ footer {
         padding: 20px;
         border-radius: 10px;
         border-color: #f16c6b solid 2px;
-        padding-top: 3rem;
+       
         
        
     
