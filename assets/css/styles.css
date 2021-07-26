@@ -10,7 +10,7 @@
 body {
     justify-content: center;
     align-items: center;
-    font-family: 'Open Sans'sans-serif;
+    font-family: 'Open Sans', sans-serif;
     font-weight: 300;
     color: #252525;
     overflow-x: hidden;
@@ -19,7 +19,7 @@ body {
 /* headings and Logos*/
 h3,
 h1 {
-    font-family: 'Oswald'sans-serif;
+    font-family: 'Oswald', sans-serif;
     text-transform: uppercase;
     letter-spacing: 1px;
     color: #252525;
@@ -69,7 +69,7 @@ h1 {
 }
 
 #cover-text {
-    font-family: 'Open Sans'sans-serif;
+    font-family: 'Open Sans', sans-serif;
     font-size: 150%;
     text-align: center;
     letter-spacing: 2px;
@@ -241,13 +241,13 @@ footer {
     display: block;
     text-align: center;
     font-size: 120%;
-    font-family: 'Open sans'sans-serif;
+    font-family: 'Open sans', sans-serif;
     min-height: 40vh;
 }
 
 .info {
     text-align: center;
-    font-family: 'Open sans'sans-serif;
+    font-family: 'Open sans', sans-serif;
     font-size: 120%;
     max-height: 40vh;
     margin-top: 50px;
@@ -318,7 +318,7 @@ footer {
 
 /*Workshop section*/
 
-.yogatutors {
+.imagecover {
     clear: both;
     min-height: 300px;
     width: 100%;
@@ -337,7 +337,7 @@ footer {
 .container .box {
    position: relative;
    height: 400px;
-   box-shadow: 0 30px 30px rgba(0, 0, 0, 0.4);
+   box-shadow: 0 5px 5px rgba(0, 0, 0, 0.4);
    overflow: hidden;
    border-radius: 3px;
    text-align: center;
@@ -351,7 +351,7 @@ footer {
    width: 100%;
    height: 100%;
    background-color: #f16c6b;
-   background-image: linear-gradient (#f59e9e 0% #f16c6b 64%);
+   background-image: linear-gradient (#f59e9e 0% #f16c6b 30%);
 }
 
 .container .box:hover::before{
@@ -370,7 +370,7 @@ footer {
 .container .box p {
     font-size: 20px;
     position: relative;
-    margin-top: 5px;
+    margin: 10px;
 }
 
 .box a {
@@ -383,6 +383,56 @@ footer {
     margin: 20px;
     font-size: 30px;
 }
+
+/*tutors*/
+
+.container .tutor-box {
+    position: relative;
+    height: 400px;
+    box-shadow: 0 5px 5px rgba(0, 0, 0, 0.4);
+    overflow: hidden;
+    border-radius: 10px;
+    text-align: center;
+ }
+ 
+ .container .tutor-box::before{
+    position: absolute;
+    content:"";
+    top: 99%;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: #f16c6b;
+    background-image: linear-gradient (#f59e9e 0% #f16c6b 30%);
+ }
+ 
+ .container .tutor-box:hover::before{
+     top: 60%;
+ }
+.container .tutor-box .img-box{
+    width:100%;
+    height:65%;
+}
+.container .tutor-box .img-box img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+.container .tutor-box p {
+    font-size: 15px;
+    position: relative;
+    margin: 10px;
+    color: #252525;
+}
+
+.container .tutor-box h3 {
+    font-size: 15px;
+    position: relative;
+    margin: 10px;
+    color: #252525;
+}
+
+
 /*Signup section*/
 .signup-form {
 
