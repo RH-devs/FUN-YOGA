@@ -248,9 +248,9 @@ footer {
 }
 
 .contact-form {
-    width: 43%;
-    margin: 1% 1%;
-    padding: 1.5%;
+    width: 250px;
+    margin: auto;
+    padding: 10px;
     border-radius: 20px;
     background-color: #fff;
     display: inline-block;
