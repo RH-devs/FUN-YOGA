@@ -12,6 +12,7 @@ body {
     align-items: center;
     font-family: 'Open Sans', sans-serif;
     font-weight: 300;
+    background-color: transparent;
     color: #252525;
     overflow-x: hidden;
     display: grid;
@@ -83,7 +84,8 @@ h1 {
 #cover-text {
     display: inline-block;
     padding: 2px;
-    background-color: #f7dfdf;
+    background-color: #fff;
+    color :#3a3a3a;
     position: absolute;
     border-radius: 5px;
     border: solid 1px #fff;
@@ -162,17 +164,16 @@ h1 {
     padding: 15px;
     text-align: center;
     background-color: #f59e9e;
+    color: #252525;
     border-radius: 5px;
 }
-
-
 
 /*Footer section*/
 
 footer {
 
     background-color: #f59e9e;
-    padding-top: 2%;
+    color: #252525;
 }
 
 .socialmedia {
@@ -334,10 +335,6 @@ textarea {
     resize: vertical;
 }
 
-input[type=submit]:hover {
-    background-color: #f16c6b
-}
-
 .yogapose {
     clear: both;
     height: 450px;
@@ -360,7 +357,7 @@ input[type=submit]:hover {
     }
     #cover-text {
         left: 0;
-        right: auto;
+        right: 0;
     }
 
     #logo {
@@ -432,7 +429,6 @@ input[type=submit]:hover {
     width: 100%;
     height: 100%;
     background-color: #f16c6b;
-    background-image: linear-gradient (#f59e9e 0% #f16c6b 30%);
 }
 
 .container .box:hover::before {
@@ -488,7 +484,6 @@ input[type=submit]:hover {
     width: 100%;
     height: 100%;
     background-color: #f16c6b;
-    background-image: linear-gradient (#f59e9e 0% #f16c6b 30%);
 }
 
 .container .tutor-box:hover::before {
