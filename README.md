@@ -40,7 +40,10 @@ The existing features are broken into four pages which includes the Home, Galler
 
 - This section consists of four columns and shows users the date, time, venue, techniques to be used and tutor names for live yoga sessions.
 
-![Workshop section] (https://github.com/RH-devs/YOGA-PROJECT/blob/main/assets/images/Yogaworkshop.PNG)
+-It also shows the users profile of the tutors to direct the upcoming workshops.
+
+![Workshop section] (https://github.com/RH-devs/YOGA-PROJECT/blob/main/)
+
 
 
 
