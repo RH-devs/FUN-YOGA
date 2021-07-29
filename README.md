@@ -7,28 +7,29 @@ It will be very useful to participants as recorded sessions will be available/on
 ### Existing Features
 
 The existing features are broken into four pages which includes the Home, Gallery, Sign up and Contact.
-- __Navigation Bar__
+ __Navigation Bar__
 
 - The section will feature four pages and the full responsive navigation bar includes links to the Logo, Home page, Media, Sign up page and the Contact page. They are all identical in each page to allow users navigate for easily.
 
 - It will also allow easy navigation for users on all devices without going back to the previous page using the ‘back’ button.
 
-![Nav bar] (https://github.com/RH-devs/YOGA-PROJECT/blob/main/assets/images/navbar.PNG)
+![Nav bar](https://github.com/RH-devs/YOGA-PROJECT/blob/main/assets/images/navbar.PNG)
 
-- __Home Page__
+
+__Home Page__
 
 - The Home Page includes a background picture of yoga group exhibiting a technique to allow the user see what the site entails.
 - This section introduces the user to Fun yoga with slide animation of pictures to grab their attention.
 
 ![Home Page] (https://github.com/RH-devs/YOGA-PROJECT/blob/main/assets/images/funyoga-homepgae.PNG)
 
-- __Welcome Section__
+__Welcome Section__
 
 - This entails a brief introduction of yoga and what can be achieved using the website as user’s major hub for yoga.
 
 ![Welcome note] (https://github.com/RH-devs/YOGA-PROJECT/blob/main/assets/images/welcomenote.PNG)
 
-- __Benefits Section__
+__Benefits Section__
 
 - The Yoga essentials section consists of four columns which allow the user to see the benefits of joining the Yoga sessions and importance of fitness.
 
@@ -40,7 +41,7 @@ The existing features are broken into four pages which includes the Home, Galler
 
 ![Signup button] (https://github.com/RH-devs/YOGA-PROJECT/blob/main/assets/images/signupbutton.PNG)
 
-- __Gallery Section__
+__Gallery Section__
 
 - This section consists of videos and pictures which will help users ranging from (beginners, expecting mothers, elderly persons) to have access to free videos to assist them during their journey of practising Yoga. 
 
@@ -52,7 +53,7 @@ The existing features are broken into four pages which includes the Home, Galler
 
 ![Pictures section] (https://github.com/RH-devs/YOGA-PROJECT/blob/main/assets/images/yoga-gallery-section.PNG)
 
-- __Workshop section__
+__Workshop section__
 
 - This section consists of four columns and shows users the date, time, venue, techniques to be used and tutor names for live yoga sessions.
 
