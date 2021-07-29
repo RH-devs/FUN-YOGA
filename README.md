@@ -36,7 +36,13 @@ The existing features are broken into four pages which includes the Home, Galler
 
 ![Benefits section] (https://github.com/RH-devs/YOGA-PROJECT/blob/main/assets/images/yogabenefits.PNG)
 
--__Workshop section__
+- __Gallery Section__
+
+- This section consists of videos and pictures which will help users ranging from (beginners, expecting mothers, elderly persons) to have access to free videos to assist them during their journey of practising Yoga. 
+
+- The embedded videos provides users with high quality of produced online lessons by tutors in the past.
+
+- __Workshop section__
 
 - This section consists of four columns and shows users the date, time, venue, techniques to be used and tutor names for live yoga sessions.
 
