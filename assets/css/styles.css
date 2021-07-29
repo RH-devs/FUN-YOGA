@@ -219,8 +219,12 @@ footer {
 }
 .gallery-text {
     text-align: center;
+    clear: both;
 }
 
+.media {
+    display: grid;
+}
 
 /* Create four image equal columns that floats next to each other */
 .image-column {
@@ -449,7 +453,7 @@ and (max-width : 320px) {
 
 .imagecover {
     clear: both;
-    min-height: 550px;
+    min-height: 450px;
     width: 100%;
     background: url(../images/onlineworkshop.jpg) no-repeat center center;
     background-size: cover;
@@ -516,6 +520,9 @@ and (max-width : 320px) {
     font-size: 30px;
 }
 
+.workshop-times {
+    display: grid;
+}
 /*tutors*/
 
 .container .tutor-box {
@@ -696,6 +703,7 @@ and (max-width : 320px) {
     flex-flow: column nowrap;
     align-items: center; 
     text-align: center; 
-    padding: 10%;
+    padding-top: 10%;
+    padding-bottom: 5%;
     font-size: 20px;
 }
