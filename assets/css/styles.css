@@ -344,6 +344,10 @@ input[type=submit] {
     height: 100%;
 }
 
+.contact-form h2{
+    text-align: center;
+    padding-bottom: 20px;
+}
 
 input[type=text],
 select,
@@ -708,7 +712,7 @@ and (max-width : 320px) {
 /*Thank You Page*/
 
 .content {
-   margin: 5rem;
+   margin: 4rem;
     
 }
 
