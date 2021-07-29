@@ -32,15 +32,25 @@ The existing features are broken into four pages which includes the Home, Galler
 
 - The Yoga essentials section consists of four columns which allow the user to see the benefits of joining the Yoga sessions and importance of fitness.
 
-- This should encourage the user to consider practicing Yoga as part of their fitness journey.
+- This should encourage the users to consider practicing Yoga as part of their fitness journey.
 
 ![Benefits section] (https://github.com/RH-devs/YOGA-PROJECT/blob/main/assets/images/yogabenefits.PNG)
+
+-The Signup button is also created on the home page for users who will like to receive updates and freebies.
+
+![Signup button] (https://github.com/RH-devs/YOGA-PROJECT/blob/main/assets/images/signupbutton.PNG)
 
 - __Gallery Section__
 
 - This section consists of videos and pictures which will help users ranging from (beginners, expecting mothers, elderly persons) to have access to free videos to assist them during their journey of practising Yoga. 
 
 - The embedded videos provides users with high quality of produced online lessons by tutors in the past.
+
+![Videos section] (https://github.com/RH-devs/YOGA-PROJECT/blob/main/assets/images/yogavideos.PNG)
+
+- The pictures of past participants exhbiting different yoga techniques are also featured to show users, there is an existing community on the platform.
+
+![Pictures section] (https://github.com/RH-devs/YOGA-PROJECT/blob/main/assets/images/yoga-gallery-section.PNG)
 
 - __Workshop section__
 
