@@ -84,9 +84,15 @@ __Hidden Pages__
 The form submit response message also includes a call to action for the user to contemplating to stay connected can follow the group via the social media channels which in turn boosts visibility for the group.
 For both pages, the hero image was also not used to keep it clear and concise to users showing that no other information is available on these pages.
 
+-The Sign up page
+
 ![Signup page](https://github.com/RH-devs/YOGA-PROJECT/blob/main/assets/images/signuppage.PNG)
 
+-The Thank you page
+
 ![Thank you message](https://github.com/RH-devs/YOGA-PROJECT/blob/main/assets/images/thankyoupage.PNG)
+
+-The Signup confrimation page
 
 ![Signup Confirmation](https://github.com/RH-devs/YOGA-PROJECT/blob/main/assets/images/signupconfirmation.PNG)
 
