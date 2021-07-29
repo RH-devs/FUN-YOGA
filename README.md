@@ -39,7 +39,7 @@ __Benefits Section__
 
 -The Signup button is also created on the home page for users who will like to receive updates and freebies.
 
-![Signup button] (https://github.com/RH-devs/YOGA-PROJECT/blob/main/assets/images/signupbutton.PNG)
+![Signup button](https://github.com/RH-devs/YOGA-PROJECT/blob/main/assets/images/signupbutton.PNG)
 
 __Gallery Section__
 
@@ -74,12 +74,21 @@ __Contact Page__
 
 __Hidden Pages__
 
-- There are two pages which didn't appear on the navigation bar, it was created to display thank you message to users that submit one of the contact and sign up forms.
+- There are three pages which didn't appear on the navigation bar -Signup page and thank you pages which was created to display thank you message to users that submit one of the contact and sign up forms.
 
-- A thank you for subscribing message is displayed to users who sign up for latest updates. This provides the user with confirmation that they have successfully subscribed, whilst also providing reassurance regarding the frequency of the newsletter emails.
-A response to the contact form submission is displayed to users who send a message to the organisation through the website. This provides the user with confirmation that their message was successfully sent, whilst also providing them with an expectation as to response times.
-The form submit response message also includes a call to action for the user to consider subscribing to the newsletter or the social media channels, further promoting them for the organisation.
-For both pages, due to the small overall length, the bookmark link was not required. The hero image was also not used to keep it clear to users that this was not a page with other information on.
+- A sign up page was created for users who click on the sign up button available on the homepage or intend to attend the online workshops. Since a contact page has been created on the navigation menu, there was no need for a sign up to be available on the menu to avoid users having difficulty with two form pages.
+
+- A thank you confirmation for sign up is displayed to users who sign up for latest updates. This provides the user with confirmation that they have successfully sign up, also reassurring them of latest updates and free videos on a monthly basis.
+
+- A feedback to the contact form is displayed to users who send a message to the group through the website. This gives the user a confirmation that their message was successfully sent, also replying them to take note of response times.
+The form submit response message also includes a call to action for the user to contemplating to stay connected can follow the group via the social media channels which in turn boosts visibility for the group.
+For both pages, the hero image was also not used to keep it clear and concise to users showing that no other information is available on these pages.
+
+![Signup page](https://github.com/RH-devs/YOGA-PROJECT/blob/main/assets/images/signuppage.PNG)
+
+![Thank you message](https://github.com/RH-devs/YOGA-PROJECT/blob/main/assets/images/thankyoupage.PNG)
+
+![Signup Confirmation](https://github.com/RH-devs/YOGA-PROJECT/blob/main/assets/images/signupconfirmation.PNG)
 
 
 
