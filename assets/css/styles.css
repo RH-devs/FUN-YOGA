@@ -459,16 +459,9 @@ and (min-width : 320px) {
    
    #welcome{
        left: 0;
-   }
-   
-  
+   }  
 }
  
-/* Smartphones (portrait) ----------- */
-@media only screen
-and (max-width : 320px) {
-/* Styles */
-}
 /*Workshop section*/
 
 .imagecover {
