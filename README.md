@@ -21,13 +21,13 @@ __Home Page__
 - The Home Page includes a background picture of yoga group exhibiting a technique to allow the user see what the site entails.
 - This section introduces the user to Fun yoga with slide animation of pictures to grab their attention.
 
-![Home Page] (https://github.com/RH-devs/YOGA-PROJECT/blob/main/assets/images/funyoga-homepgae.PNG)
+![Home Page](https://github.com/RH-devs/YOGA-PROJECT/blob/main/assets/images/funyoga-homepgae.PNG)
 
 __Welcome Section__
 
 - This entails a brief introduction of yoga and what can be achieved using the website as user’s major hub for yoga.
 
-![Welcome note] (https://github.com/RH-devs/YOGA-PROJECT/blob/main/assets/images/welcomenote.PNG)
+![Welcome note](https://github.com/RH-devs/YOGA-PROJECT/blob/main/assets/images/welcomenote.PNG)
 
 __Benefits Section__
 
@@ -35,7 +35,7 @@ __Benefits Section__
 
 - This should encourage the users to consider practicing Yoga as part of their fitness journey.
 
-![Benefits section] (https://github.com/RH-devs/YOGA-PROJECT/blob/main/assets/images/yogabenefits.PNG)
+![Benefits section](https://github.com/RH-devs/YOGA-PROJECT/blob/main/assets/images/yogabenefits.PNG)
 
 -The Signup button is also created on the home page for users who will like to receive updates and freebies.
 
@@ -43,24 +43,43 @@ __Benefits Section__
 
 __Gallery Section__
 
-- This section consists of videos and pictures which will help users ranging from (beginners, expecting mothers, elderly persons) to have access to free videos to assist them during their journey of practising Yoga. 
+- This section consists of videos and pictures which will help users ranging from (beginners, expecting mothers, elderly persons) to have access to free videos to assist them during their journey of practising Yoga. This section is valuable to the user will be able to easily identify the types of yoga techniques used to improve the wellness of the body.
 
 - The embedded videos provides users with high quality of produced online lessons by tutors in the past.
 
-![Videos section] (https://github.com/RH-devs/YOGA-PROJECT/blob/main/assets/images/yogavideos.PNG)
+![Videos section](https://github.com/RH-devs/YOGA-PROJECT/blob/main/assets/images/yogavideos.PNG)
 
 - The pictures of past participants exhbiting different yoga techniques are also featured to show users, there is an existing community on the platform.
 
-![Pictures section] (https://github.com/RH-devs/YOGA-PROJECT/blob/main/assets/images/yoga-gallery-section.PNG)
+![Pictures section](https://github.com/RH-devs/YOGA-PROJECT/blob/main/assets/images/yoga-gallery-section.PNG)
 
 __Workshop section__
 
-- This section consists of four columns and shows users the date, time, venue, techniques to be used and tutor names for live yoga sessions.
+- This section consists shows users the date, time, venue, techniques to be used as well as tutor names for live yoga sessions. Users can click on the schedule which directs them to the signup page for registration.
 
--It also shows the users profile of the tutors to direct the upcoming workshops.
+- It also shows the users brief profile of the tutors to direct the upcoming workshops.
 
-![Workshop section] (https://github.com/RH-devs/YOGA-PROJECT/blob/main/)
+![Schedule](https://github.com/RH-devs/YOGA-PROJECT/blob/main/assets/images/yoga-wrkshp-times.PNG)
 
+![Workshop section](https://github.com/RH-devs/YOGA-PROJECT/blob/main/assets/images/yoga-onlinetutors.PNG)
+
+__Contact Page__
+
+- This page will allow the user to make enquiries about how to join Fun Yoga community. The user will be asked to submit their full name, email address, subject of the message and Full message.
+
+-It also shows the users map direction of where the yoga operates from.
+
+![Contact page](https://github.com/RH-devs/YOGA-PROJECT/blob/main/assets/images/yogacontactpage.PNG)
+
+
+__Hidden Pages__
+
+- There are two pages which didn't appear on the navigation bar, it was created to display thank you message to users that submit one of the contact and sign up forms.
+
+- A thank you for subscribing message is displayed to users who sign up for latest updates. This provides the user with confirmation that they have successfully subscribed, whilst also providing reassurance regarding the frequency of the newsletter emails.
+A response to the contact form submission is displayed to users who send a message to the organisation through the website. This provides the user with confirmation that their message was successfully sent, whilst also providing them with an expectation as to response times.
+The form submit response message also includes a call to action for the user to consider subscribing to the newsletter or the social media channels, further promoting them for the organisation.
+For both pages, due to the small overall length, the bookmark link was not required. The hero image was also not used to keep it clear to users that this was not a page with other information on.
 
 
 
