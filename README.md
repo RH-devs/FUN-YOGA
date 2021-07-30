@@ -106,6 +106,23 @@ __Creating Yoga Journal__
 
 - The journal will help users document and track their lifestyle journey once they are registered on the website. Introducing this section will allow users be able to document their lifestyle, diet and fitness journey and how it is been maintained. It would be beneficial to users have check through what kind of diet can balance out their yoga lifestyle. The impact of this will enhance user experience.
 
+### Validator Testing
+
+__HTML__
+- Using  the official W3C Validator, no errors were returned for the pages below;
+
+- ![Home page](https://validator.w3.org/nu/?doc=https%3A%2F%2Frh-devs.github.io%2FYOGA-PROJECT%2Findex.html)
+- ![Gallery page](https://validator.w3.org/nu/?doc=https%3A%2F%2Frh-devs.github.io%2FYOGA-PROJECT%2Fgallery.html)
+- ![Workshop page](https://validator.w3.org/nu/?doc=https%3A%2F%2Frh-devs.github.io%2FYOGA-PROJECT%2Fworkshop.html)
+- ![Contact page]()
+- ![Thank you page]()
+- ![Sign up page]()
+- ![Signup-confirmation page]()
+
+__CSS__
+- Using the official (Jigsaw) Validator, no errors were returned.
+
+
 ## Credits
 __Content__
 
