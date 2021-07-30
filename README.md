@@ -84,18 +84,23 @@ __Workshop section__
 
 __Contact Page__
 
-- This page will allow the user to make enquiries about how to join Fun Yoga community. The user will be asked to submit their full name, email address, subject of the message and Full message.
+- This page will allow the user to make enquiries about how to join Fun Yoga community. The user will be asked to submit their full name, email address, subject of the message and Full message. Please note no information is sent to any server when user submits.
 
 -It also shows the users map direction of where the yoga operates from.
 
 ![Contact page](https://github.com/RH-devs/YOGA-PROJECT/blob/main/assets/images/yogacontactpage.PNG)
 
+__The Sign up page__
+
+- A sign up page was created for users who click on the sign up button available on the homepage or intend to attend the online workshops. Please note no information is sent to any server when user submits.
+
+![Signup page](https://github.com/RH-devs/YOGA-PROJECT/blob/main/assets/images/signuppage.PNG)
 
 __Hidden Pages__
 
 - There are three pages which didn't appear on the navigation bar -Signup page and thank you pages which was created to display thank you message to users that submit one of the contact and sign up forms.
 
-- A sign up page was created for users who click on the sign up button available on the homepage or intend to attend the online workshops. Since a contact page has been created on the navigation menu, there was no need for a sign up to be available on the menu to avoid users having difficulty with two form pages.
+- . Since a contact page has been created on the navigation menu, there was no need for a sign up to be available on the menu to avoid users having difficulty with two form pages.
 
 - A thank you confirmation for sign up is displayed to users who sign up for latest updates. This provides the user with confirmation that they have successfully sign up, also reassurring them of latest updates and free videos on a monthly basis.
 
@@ -103,9 +108,6 @@ __Hidden Pages__
 The form submit response message also includes a call to action for the user to contemplating to stay connected can follow the group via the social media channels which in turn boosts visibility for the group.
 For both pages, the hero image was also not used to keep it clear and concise to users showing that no other information is available on these pages.
 
-- The Sign up page
-
-![Signup page](https://github.com/RH-devs/YOGA-PROJECT/blob/main/assets/images/signuppage.PNG)
 
 - The Thank you page
 
