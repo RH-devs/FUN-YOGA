@@ -109,18 +109,20 @@ __Creating Yoga Journal__
 ### Validator Testing
 
 __HTML__
+
 - Using  the official W3C Validator, no errors were returned for the pages below;
 
 - ![Home page](https://validator.w3.org/nu/?doc=https%3A%2F%2Frh-devs.github.io%2FYOGA-PROJECT%2Findex.html)
 - ![Gallery page](https://validator.w3.org/nu/?doc=https%3A%2F%2Frh-devs.github.io%2FYOGA-PROJECT%2Fgallery.html)
 - ![Workshop page](https://validator.w3.org/nu/?doc=https%3A%2F%2Frh-devs.github.io%2FYOGA-PROJECT%2Fworkshop.html)
-- ![Contact page]()
-- ![Thank you page]()
-- ![Sign up page]()
-- ![Signup-confirmation page]()
+- ![Contact page](https://validator.w3.org/nu/?doc=https%3A%2F%2Frh-devs.github.io%2FYOGA-PROJECT%2Fcontact.html)
+- ![Thank you page](https://validator.w3.org/nu/?doc=https%3A%2F%2Frh-devs.github.io%2FYOGA-PROJECT%2Fthankyou.html)
+- ![Sign up page](https://validator.w3.org/nu/?doc=https%3A%2F%2Frh-devs.github.io%2FYOGA-PROJECT%2Fsignup.html)
+- ![Signup-confirmation page](https://validator.w3.org/nu/?doc=https%3A%2F%2Frh-devs.github.io%2FYOGA-PROJECT%2Fsignup-confirmation.html)
 
 __CSS__
 - Using the official (Jigsaw) Validator, no errors were returned.
+![Results link](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Frh-devs.github.io%2FYOGA-PROJECT%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
 
 
 ## Credits
