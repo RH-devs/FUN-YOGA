@@ -2,11 +2,30 @@
 Fun Yoga is a website created to help individuals around the world who aim to boost their physical & mental wellbeing through strength & flexibility and have fun while at it in their comfort zone. The target audience for this site are teens, adults and aged who want to learn body/mind self-improvement techniques.
 It will be very useful to participants as recorded sessions will be available/online workshops where tutors will teach body techniques to support their goals.
 
+## UX
+
+__Fun Yoga__
+
+The website for Fun Yoga decided to run free workshops following the pandemic and currently have a website in development. The Fun Yoga team wants organize and run workshops weekly to promote the use of yoga techniques for people interested in starting or maintaining their wellness and healthy lifestyle. This would include covering various online sessions through Zoom for participants to have that physical feeling. This has created the need for the Fun Yoga to have a site of its own to enable the society at large improve on their general wellness.
+
+__User Stories__
+
+-	Being a user, it should be easy to navigate the website on required information about the Yoga.
+-	Being a user, I want to be able to view videos of techniques that will suit my age and health.
+-	Being a user, checking benefits and reasons on why I should begin the yoga journey should not be difficult. 
+-	Being a user, I would like to contact someone easily about how I can join live workshop sessions.
+-	Being a user, I would like to sign up for freebies and get the latest updates on yoga.
+-	Being a user, I want to be a able to access the website contents anywhere in the world without having difficulties.
+-	Being a group/an organization, we want to create awareness of our workshops and fitness contents to users through our media channels.
+-	Being an organization, we would like to showcase our fitness routine globally to people interested a friendly manner.
+-	Being an organization, we want to promote yoga and intensify its benefits to users.
+
 ## Features
 
 ### Existing Features
 
 The existing features are broken into four pages which includes the Home, Gallery, Sign up and Contact.
+
  __Navigation Bar__
 
 - The section will feature four pages and the full responsive navigation bar includes links to the Logo, Home page, Media, Sign up page and the Contact page. They are all identical in each page to allow users navigate for easily.
