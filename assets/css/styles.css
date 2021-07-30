@@ -103,7 +103,7 @@ h1 {
     border: solid 1px #f6f6f6;
 }
 
-#yoga-image {
+#yogaimage {
     height: 650px;
     width: 100%;
     background: url(../images/Hero-imagee.jpg) no-repeat center center;
@@ -146,12 +146,12 @@ h1 {
     padding: 20px;
 }
 
-.sub{
+.signup-link 
+{
     text-align: center;
     align-content: center;
     padding: 1rem;
 }
-
 /*Benefits cards*/
 /* Float four columns side by side */
 .column {
