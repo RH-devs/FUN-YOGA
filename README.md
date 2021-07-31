@@ -255,7 +255,7 @@ __Content__
 
 - The icons used for the benefits section and in the footer were taken from [Font Awesome](https://www.Fontawesome.com).
 
-- My mentor also assist with areas where i had difficulties such as navigation menu on small screens.
+- My mentor also assist with areas where i had difficulties such as navigation menu on small screens and lessons taught by Code Institute.
 
 - I wrote the text for other pages by myself.
 
