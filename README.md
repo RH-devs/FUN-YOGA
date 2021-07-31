@@ -55,11 +55,11 @@ __Benefits Section__
 
 - This should encourage the users to consider practicing Yoga as part of their fitness journey.
 
-![Benefits section](https://github.com/RH-devs/YOGA-PROJECT/blob/main/assets/images/yogabenefits.PNG)
+![Benefits section](https://github.com/RH-devs/YOGA-PROJECT/blob/main/assets/images/yoga-benefits.PNG)
 
 - The Signup button is also created on the home page for users who will like to receive updates and freebies.
 
-![Signup button](https://github.com/RH-devs/YOGA-PROJECT/blob/main/assets/images/signupbutton.PNG)
+![Signup button](https://github.com/RH-devs/YOGA-PROJECT/blob/main/assets/images/signup-button.PNG)
 
 __Gallery page__
 
@@ -164,7 +164,9 @@ __Content__
 
 - Materials on HTML and CSS provided by [W3 Schools](https://www.w3schools.com) was applied to work on flexbox and grid and some other sections.
 
-- •	The icons used for the benefits section and in the footer were taken from [Font Awesome](https://www.Fontawesome.com).
+- The icons used for the benefits section and in the footer were taken from [Font Awesome](https://www.Fontawesome.com).
+
+- My mentor also assist with areas where i had difficulties such as navigation menu on small screens.
 
 - I wrote the text for other pages by myself.
 
