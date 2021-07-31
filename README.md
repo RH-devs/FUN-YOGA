@@ -191,6 +191,27 @@ __Social media links in the footer__
 __Google Map__
 - In the iframe map when clicked on "View larger maps", the link opens on a separate new tab on the browser.
 
+### User level Testing
+- I requested for my siblings and friends to test the website in their own mobiles, laptops, etc. The website was also submitted in the peer-code-review channel on the CI Slack community.
+
+__Overall Navigation__
+
+- No issues reported
+
+__Website Responsiveness__
+
+- Issue reported with footer contents not aligned on smaller screens was corrected by changing the display to flex.
+- Issue reported with body of the homepage drifting left on small screen sizes with width 320px to 584px and was corrected by adjusting the image size in the “Why choose yoga section”
+- Issue reported with location on iframe map not pinned was corrected with the help of [Blog Duda](https://blog.duda.co)
+
+__Contact Form__
+
+- Issue reported about email syntax not working was addressed by checking W3 schools.org.
+
+__404 page__
+
+- No issues reported.
+
 ### Validator Testing
 
 __HTML__
@@ -228,7 +249,7 @@ __Tools used for Frameworks__
 
 - The site developed was deployed to GitHub page, the live link can be found below:
 
-- [Fun Yoga](https://rh-devs.github.io/YOGA-PROJECT/contact.html)
+- [Fun Yoga](https://rh-devs.github.io/YOGA-PROJECT/)
 
 
 ## Credits
