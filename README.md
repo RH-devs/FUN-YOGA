@@ -152,6 +152,36 @@ __Creating Yoga Journal__
 
 - The journal will help users document and track their lifestyle journey once they are registered on the website. Introducing this section will allow users be able to document their lifestyle, diet and fitness journey and how it is been maintained. It would be beneficial to users have check through what kind of diet can balance out their yoga lifestyle. The impact of this will enhance user experience.
 
+## Testing
+### Testing levels
+
+__Compatibility__
+
+- The website was tested and it's working on different browsers: Internet Explorer/Microsoft Edge, firefox and chrome
+
+__Navigation bar__
+
+- The links created within all pages from the navigation bar are working and opening the correct anticipated pages.
+
+__Sign up link for updates__
+
+- The sign-up link on the home is working and redirects users to the signup page to complete the form.
+- The name, password input text is required, it won't accept with empty data.
+- No data is sent to any server.
+
+__Contact form__
+
+- The contact form is working and redirecting users to a response page.
+- All input fields are required for completing the contact form, If any of the fields are left blank, the user would be requested to fill in the field.
+- No data is sent to any server.
+
+__Social media links in the footer__
+
+- The social media links are working and opening on a separate new tab on the browser.
+
+__Google Map__
+- In the iframe map when clicked on "View larger maps", the link opens on a separate new tab on the browser.
+
 ### Validator Testing
 
 __HTML__
