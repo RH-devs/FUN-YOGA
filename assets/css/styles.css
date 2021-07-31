@@ -216,7 +216,6 @@ text-align: center;
 /*Gallery page*/
 .video-row {
     clear: both;
-    display: grid;
     grid-template-columns: repeat(auto-fit, minmax(290px, 1fr));
     grid-column-gap: 15px;
     padding: 15px 30px;
@@ -237,6 +236,7 @@ text-align: center;
     width: 100%;
     height: 100%;
 }
+
 .gallery-text {
     text-align: center;
     clear: both;
@@ -401,9 +401,6 @@ textarea {
         width: 50%;
     }
 
-    iframe {
-        width: 100%;
-    }
 }
 
 /* Responsive columns - Medium devices (landscape tablets, 768px and up */
@@ -411,9 +408,7 @@ textarea {
     .column {
         width: 50%;
     }
-    iframe {
-        width: 100%;
-    }
+   
 }
 
 /* Responsive columns - one column layout (vertical) on small screens */
@@ -461,7 +456,6 @@ and (max-width : 320px) {
         clear: left;
     }
 
-
     #logo {
        left: 0;
    }
@@ -472,12 +466,7 @@ and (max-width : 320px) {
    
    #welcome{
        left: 0;
-   }  
-
-  iframe {
-        width: 100%;
-    }
-
+   }                
 }
  
 /*Workshop section*/

@@ -30,13 +30,6 @@ I made use of Moqups to design wireframes of how the website should like, the el
 
 [Gallery page wireframe](https://github.com/RH-devs/YOGA-PROJECT/blob/main/assets/images/wireframe-gallery.PNG)
 
-[Workshop page wireframe]
-
-[Contact page wireframe]
-
-[Sign Up page wireframe]
-
-
 ## Features
 
 ### Existing Features
