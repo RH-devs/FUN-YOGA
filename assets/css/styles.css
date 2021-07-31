@@ -41,8 +41,9 @@ h1 {
 
 #menu {
     font-size: 100%;
-    letter-spacing: 2px;
+    letter-spacing: 1px;
     text-transform: uppercase;
+    float: right;
 }
 
 #menu,
@@ -51,10 +52,10 @@ h1 {
 }
 
 #menu li {
-    float: right;
+    
     list-style-type:none;
-    margin-right: 30px;
-    display: block;
+    margin-right: 15px;
+    display: inline-block;
 }
 #menu a {
     text-decoration: none;
@@ -66,8 +67,9 @@ h1 {
     border-bottom: 4px solid #f16c6b;
 }
 
-.active {
-    border-bottom: 1px solid #f16c6b;
+.sign-popbutton {
+                background-color: #f59e9e;
+                border-radius: 3px;
 }
 
 /*Yoga image and cover text*/
@@ -447,8 +449,19 @@ textarea {
  
 /* Smartphones (potrait and landscape) */
 @media only screen
-and (min-width : 320px) {
+and (max-width : 320px) {
     
+    #menu li{
+        display: block;
+        margin: 0 6px 0 0;
+    }
+    #menu {
+        margin-bottom: 20px;
+        line-height: 20px;
+        clear: left;
+    }
+
+
     #logo {
        left: 0;
    }
@@ -460,6 +473,11 @@ and (min-width : 320px) {
    #welcome{
        left: 0;
    }  
+
+  iframe {
+        width: 100%;
+    }
+
 }
  
 /*Workshop section*/
