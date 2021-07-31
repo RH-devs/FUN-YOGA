@@ -152,7 +152,16 @@ __Creating Yoga Journal__
 
 - The journal will help users document and track their lifestyle journey once they are registered on the website. Introducing this section will allow users be able to document their lifestyle, diet and fitness journey and how it is been maintained. It would be beneficial to users have check through what kind of diet can balance out their yoga lifestyle. The impact of this will enhance user experience.
 
+__Blog__
+
+- The Blog will keep users informed about other aspects of how to improve their diet and maintain a healthy lifestyle.
+
+__Payment link__
+
+- This will assist users with being able to pay for online sessions via the workshop page. 
+
 ## Testing
+
 ### Testing levels
 
 __Compatibility__
@@ -214,6 +223,13 @@ __Tools used for Frameworks__
 - Pexels
 - W3C HTML Validation Service
 - W3C CSS Validation Service
+
+## Deployment
+
+- The site developed was deployed to GitHub page, the live link can be found below:
+
+- [Fun Yoga](https://rh-devs.github.io/YOGA-PROJECT/contact.html)
+
 
 ## Credits
 
