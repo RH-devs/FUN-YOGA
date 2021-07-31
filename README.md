@@ -253,6 +253,8 @@ __Content__
 
 - Materials on HTML and CSS provided by [W3 Schools](https://www.w3schools.com) was applied to work on flexbox and grid and some other sections.
 
+- I also used materials by Coders on Youtube for the creation of the card section for workshop.
+
 - The icons used for the benefits section and in the footer were taken from [Font Awesome](https://www.Fontawesome.com).
 
 - My mentor also assist with areas where i had difficulties such as navigation menu on small screens and lessons taught by Code Institute.
