@@ -38,7 +38,6 @@ The existing features are broken into four pages which includes the Home, Galler
 __Home Page__
 
 - The Home Page includes a background picture of yoga group exhibiting a technique to allow the user see what the site entails.
-- This section introduces the user to Fun yoga with slide animation of pictures to grab their attention.
 
 ![Home Page](https://github.com/RH-devs/YOGA-PROJECT/blob/main/assets/images/funyoga-homepgae.PNG)
 
@@ -60,7 +59,7 @@ __Benefits Section__
 
 ![Signup button](https://github.com/RH-devs/YOGA-PROJECT/blob/main/assets/images/signupbutton.PNG)
 
-__Gallery Section__
+__Gallery page__
 
 - This section consists of videos and pictures which will help users ranging from (beginners, expecting mothers, elderly persons) to have access to free videos to assist them during their journey of practising Yoga. This section is valuable to the user will be able to easily identify the types of yoga techniques used to improve the wellness of the body.
 
@@ -72,9 +71,11 @@ __Gallery Section__
 
 ![Pictures section](https://github.com/RH-devs/YOGA-PROJECT/blob/main/assets/images/yoga-gallery-section.PNG)
 
-__Workshop section__
+__Workshop page__
 
 - This section consists shows users the date, time, venue, techniques to be used as well as tutor names for live yoga sessions. Users can click on the schedule which directs them to the signup page for registration.
+
+- This section introduces the user to Fun yoga with hover animation whilst clicking on the workshop times and tutor profile to grab their attention.
 
 - It also shows the users brief profile of the tutors to direct the upcoming workshops.
 
@@ -96,18 +97,22 @@ __The Sign up page__
 
 ![Signup page](https://github.com/RH-devs/YOGA-PROJECT/blob/main/assets/images/signuppage.PNG)
 
+__Footer Section__
+
+- This section has the social media icons for users to connect, the icons directs the users directly to the another tab for the various social networks.
+
+![Footer section](https://github.com/RH-devs/YOGA-PROJECT/blob/main/assets/images/new-footer.PNG)
 __Hidden Pages__
 
-- There are three pages which didn't appear on the navigation bar -Signup page and thank you pages which was created to display thank you message to users that submit one of the contact and sign up forms.
+- There are three pages which didn't appear on the navigation bar - 404 page and thank you pages which was created to display thank you message to users that submit one of the contact and sign up forms.
 
-- . Since a contact page has been created on the navigation menu, there was no need for a sign up to be available on the menu to avoid users having difficulty with two form pages.
+- The 404 page was created for situations where the page to be viewed is no longer available such as trying view past workshops.
 
 - A thank you confirmation for sign up is displayed to users who sign up for latest updates. This provides the user with confirmation that they have successfully sign up, also reassurring them of latest updates and free videos on a monthly basis.
 
 - A feedback to the contact form is displayed to users who send a message to the group through the website. This gives the user a confirmation that their message was successfully sent, also replying them to take note of response times.
 The form submit response message also includes a call to action for the user to contemplating to stay connected can follow the group via the social media channels which in turn boosts visibility for the group.
 For both pages, the hero image was also not used to keep it clear and concise to users showing that no other information is available on these pages.
-
 
 - The Thank you page
 
@@ -116,6 +121,10 @@ For both pages, the hero image was also not used to keep it clear and concise to
 - The Signup confirmation page
 
 ![Signup Confirmation](https://github.com/RH-devs/YOGA-PROJECT/blob/main/assets/images/signupconfirmation.PNG)
+
+- 404 page
+
+![404 page](https://github.com/RH-devs/YOGA-PROJECT/blob/main/assets/images/404-page.PNG)
 
 ## Future Improvements
 
@@ -145,8 +154,8 @@ __CSS__
 - Using the official (Jigsaw) Validator, no errors were returned.
 [Results link](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Frh-devs.github.io%2FYOGA-PROJECT%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
 
-
 ## Credits
+
 __Content__
 
 - The welcome article on the home page was taken from an article on the Yogajournal.com without permission and the benefits of Yoga were taken from an article from [Yoga Bliss](https://www.yogabliss.co.uk).
