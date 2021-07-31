@@ -36,12 +36,11 @@ The existing features are broken into four pages which includes the Home, Galler
 
 ![Nav bar](https://github.com/RH-devs/YOGA-PROJECT/blob/main/assets/images/navbar.PNG)
 
-
 __Home Page__
 
 - The Home Page includes a background picture of yoga group exhibiting a technique to allow the user see what the site entails.
 
-![Home Page](https://github.com/RH-devs/YOGA-PROJECT/blob/main/assets/images/funyoga-homepgae.PNG)
+![Home Page](https://github.com/RH-devs/YOGA-PROJECT/blob/main/assets/images/yoga-homepage.PNG)
 
 __Welcome Section__
 
@@ -67,7 +66,7 @@ __Gallery page__
 
 - The embedded videos provides users with high quality of produced online lessons by tutors in the past.
 
-![Videos section](https://github.com/RH-devs/YOGA-PROJECT/blob/main/assets/images/yogavideos.PNG)
+![Videos section](https://github.com/RH-devs/YOGA-PROJECT/blob/main/assets/images/yoga-gallery.PNG)
 
 - The pictures of past participants exhbiting different yoga techniques are also featured to show users, there is an existing community on the platform.
 
@@ -118,11 +117,11 @@ For both pages, the hero image was also not used to keep it clear and concise to
 
 - The Thank you page
 
-![Thank you message](https://github.com/RH-devs/YOGA-PROJECT/blob/main/assets/images/thankyoupage.PNG)
+![Thank you message](https://github.com/RH-devs/YOGA-PROJECT/blob/main/assets/images/contact-response.PNG)
 
 - The Signup confirmation page
 
-![Signup Confirmation](https://github.com/RH-devs/YOGA-PROJECT/blob/main/assets/images/signupconfirmation.PNG)
+![Signup Confirmation](https://github.com/RH-devs/YOGA-PROJECT/blob/main/assets/images/yoga-signup-thankyou.PNG)
 
 - 404 page
 
@@ -187,8 +186,6 @@ __Media__
 - Instruction on how to embed a google map was learnt from an article written on [Google Support](https://www.support.google.com)
 
 - Embedded map HTML was generated from [Google Map](hhtps://www.maps.google.com)
-
-
 
 
 
