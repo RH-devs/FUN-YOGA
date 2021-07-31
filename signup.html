@@ -39,13 +39,15 @@
         <p>Please fill in this form to create an account.</p>
         <form action="signup-confirmation.html" method="GET">
           <label for="email"><b>Email</b></label>
-          <input type="text" id="email" placeholder="Enter Your Email" name="email" class="signup-form-txt" required>
+          <input type="email" id="email" placeholder="Enter Your Email" name="email" class="signup-form-txt" required>
 
           <label for="psw"><b>Password</b></label>
           <input type="password" id="psw" placeholder="Enter Password" name="psw" class="signup-form-txt" required>
 
           <label for="psw-repeat"><b>Repeat Password</b></label>
           <input type="password" id="psw-repeat" placeholder="Re-type Password" name="psw-repeat"
+            pattern="(?=.*\d)(?=.*[a-z])(?=.*[A-Z]).{8,}"
+            title="Must contain at least one number and one uppercase and lowercase letter, and at least 8 or more characters"
             class="signup-form-txt" required>
 
           <label>
@@ -65,17 +67,20 @@
       </div>
     </div>
   </section>
-<!--Footer-->
-<footer>
-  <p id="copyright">Copyright © 2021 Fun Yoga</p>
-  <ul class="socialmedia">
-    <li><a href="https://www.facebook.com" target="_blank" rel="noopener"><i class="fab fa-facebook"></i></a></li>
-    <li><a href="https://www.twitter.com" target="_blank" rel="noopener"><i class="fab fa-twitter-square"></i></a></li>
-    <li><a href="https://www.youtube.com" target="_blank" rel="noopener"><i class="fab fa-youtube-square"></i></a></li>
-    <li><a href="https://www.instagram.com" target="_blank" rel="noopener"><i class="fab fa-instagram"></i></a></li>
-  </ul>
-</footer>
-<!-- Font awesome script -->
-<script src="https://kit.fontawesome.com/b83175b9a4.js" crossorigin="anonymous"></script>
+  <!--Footer-->
+  <footer>
+    <p id="copyright">Copyright © 2021 Fun Yoga</p>
+    <ul class="socialmedia">
+      <li><a href="https://www.facebook.com" target="_blank" rel="noopener"><i class="fab fa-facebook"></i></a></li>
+      <li><a href="https://www.twitter.com" target="_blank" rel="noopener"><i class="fab fa-twitter-square"></i></a>
+      </li>
+      <li><a href="https://www.youtube.com" target="_blank" rel="noopener"><i class="fab fa-youtube-square"></i></a>
+      </li>
+      <li><a href="https://www.instagram.com" target="_blank" rel="noopener"><i class="fab fa-instagram"></i></a></li>
+    </ul>
+  </footer>
+  <!-- Font awesome script -->
+  <script src="https://kit.fontawesome.com/b83175b9a4.js" crossorigin="anonymous"></script>
 </body>
+
 </html>
