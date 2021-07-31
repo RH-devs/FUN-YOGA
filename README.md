@@ -21,6 +21,7 @@ __User Stories__
 -	Being a group/an organization, we want to create awareness of our workshops and fitness contents to users through our media channels.
 -	Being an organization, we would like to showcase our fitness routine globally to people interested a friendly manner.
 -	Being an organization, we want to promote yoga and intensify its benefits to users.
+-   Being an organization, we would like to attract more users.
 
 ## Wireframe mockups
 I made use of Moqups to design wireframes of how the website should like, the elements available in moqups were used to structure the layout of the wireframes.
@@ -168,6 +169,21 @@ __HTML__
 __CSS__
 - Using the official (Jigsaw) Validator, no errors were returned.
 [Results link](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Frh-devs.github.io%2FYOGA-PROJECT%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
+
+## Technologies Used
+__Languages__
+
+- HTML5
+- CSS
+
+__Tools used for Frameworks__
+
+- Gitpod
+- Github
+- Moqups
+- Pexels
+- W3C HTML Validation Service
+- W3C CSS Validation Service
 
 ## Credits
 
