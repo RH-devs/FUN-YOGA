@@ -8,6 +8,8 @@ __Fun Yoga__
 
 The website for Fun Yoga decided to run free workshops following the pandemic and currently have a website in development. The Fun Yoga team wants organize and run workshops weekly to promote the use of yoga techniques for people interested in starting or maintaining their wellness and healthy lifestyle. This would include covering various online sessions through Zoom for participants to have that physical feeling. This has created the need for the Fun Yoga to have a site of its own to enable the society at large improve on their general wellness.
 
+![Fun Yoga](https://github.com/RH-devs/YOGA-PROJECT/blob/main/assets/images/funyoga-mockup.png)
+
 __User Stories__
 
 -	Being a user, it should be easy to navigate the website on required information about the Yoga.
