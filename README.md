@@ -22,6 +22,20 @@ __User Stories__
 -	Being an organization, we would like to showcase our fitness routine globally to people interested a friendly manner.
 -	Being an organization, we want to promote yoga and intensify its benefits to users.
 
+## Wireframe mockups
+I made use of Moqups to design wireframes of how the website should like, the elements available in moqups were used to structure the layout of the wireframes.
+
+[Home page wireframe](https://github.com/RH-devs/YOGA-PROJECT/blob/main/assets/images/homepage-wireframe.PNG)
+
+[Gallery page wireframe](https://github.com/RH-devs/YOGA-PROJECT/blob/main/assets/images/wireframe-gallery.PNG)
+
+[Workshop page wireframe]
+
+[Contact page wireframe]
+
+[Sign Up page wireframe]
+
+
 ## Features
 
 ### Existing Features
